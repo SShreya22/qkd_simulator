@@ -24,7 +24,7 @@ This project implements QKD protocols to showcase how quantum cryptography can b
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/SShreya22/qkd_simulator
 cd qkd_shreya
 ```
 
